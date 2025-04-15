@@ -1,0 +1,6 @@
+*
+!data/
+!scripts/
+!tools/
+!*.md
+!.gitignore
